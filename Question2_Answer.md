@@ -6,3 +6,5 @@
 
 *commands and outputs*
 <img width="1480" height="876" alt="image" src="https://github.com/user-attachments/assets/94bce58d-db07-431b-ac33-93e2df780471" />
+
+The script validates the log file, counts log levels using grep, displays the latest error entry, and generates a dated summary report.
